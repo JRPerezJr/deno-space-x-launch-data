@@ -20,7 +20,7 @@ Chocolatey (Windows):
 
 Scoop (Window):
 
-#### `sccop install deno`
+#### `scoop install deno`
 
 ## Technologies & Libraries Utilized:
 
