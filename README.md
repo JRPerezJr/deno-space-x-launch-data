@@ -24,7 +24,7 @@ Scoop (Window):
 
 ## Technologies & Libraries Utilized:
 
-Deno standard libraries, Lodash
+Deno standard libraries, Lodash, Space X API v3
 
 ## Commands
 
